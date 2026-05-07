@@ -24,3 +24,17 @@ This project applies **AI-driven predictive marketing** to The Coca-Cola Company
 - **Data Handling:** Pandas, NumPy, Matplotlib
 
 ## 📁 Repository Structure
+
+3.  **Upload the Charts:**
+    - When you run the Python code above, it saves `arima_forecast_plot.png` and `customer_segments.png`.
+    - **Upload these PNG files** to the `code/` folder on GitHub so they appear in your README.
+
+### Summary Checklist for Success
+1.  [x] Created the GitHub Repo.
+2.  [x] Uploaded the Word doc (Report) to the main folder.
+3.  [x] Created a `code` folder.
+4.  [x] Copied the 3 Python scripts into the `code` folder.
+5.  [x] Edited the `README.md` with the template above.
+6.  [x] Ran the scripts locally to generate the `.png` charts and uploaded those too.
+
+Once you hit **Commit**, you will have a URL (e.g., `github.com/yourname/Coca-Cola-Predictive-Marketing-AI`) that you can put on your resume. It shows you didn't just write a report, but you *executed* the code. Good luck
