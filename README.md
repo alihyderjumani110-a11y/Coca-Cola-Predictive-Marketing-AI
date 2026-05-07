@@ -90,24 +90,6 @@ Furthermore, can AI-driven models accurately forecast quarterly revenues to enab
 | **Brand Loyalty** | 5.6/10 | 7.7/10 | 2.9/10 |
 | **Marketing Strategy** | TikTok, Influencers | Value deals, Multi-packs | Experiential, Loyalty rewards |
 
----
-
-## 📈 **Key Visualizations**
-
-### Revenue Growth Trend (2020-2026)
-![Revenue Trend](code/revenue_trend.png)
-*Coca-Cola grew from \$33.01B to \$47.94B (+45.2%), with Q1 2026 TTM at \$49.28B*
-
-### ARIMA Forecast
-![ARIMA Forecast](code/arima_forecast_plot.png)
-*ARIMA(2,1,1) projects Q1 2026 at \$11.83B, validated by actual TTM data*
-
-### Customer Segments
-![Customer Segments](code/customer_segments.png)
-*Three distinct clusters visualized by purchase frequency vs. transaction value*
-
----
-
 ## 💼 **Business Implications**
 
 | # | Implication | Strategic Action |
